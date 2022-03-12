@@ -1,0 +1,46 @@
+body {
+  min-height: 100vh;
+  background: #ffeb3b;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background: #ffc107;
+}
+
+.recipe {
+  width: 80vw;
+  background: #ff9800;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+img {
+  border-radius: 10px;
+}
+
+h2 {
+  border-bottom: 1px solid yellow;
+  padding-bottom: 10px;
+  background: #009688;
+}
+
+.description-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+li {
+  list-style-position: inside;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: bold;
+}
+
+ul,ol {
+  text-align: left;
+    display: inline-block;
+}

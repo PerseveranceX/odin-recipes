@@ -1,4 +1,4 @@
-body,html {
+body {
   min-height: 100vh;
   background: #ffeb3b;
 }
@@ -18,10 +18,6 @@ p {
 
 .recipes {
   text-align: center;
-}
-
-.recipe {
-  /*border: red 5px solid;*/
 }
 
 a {
