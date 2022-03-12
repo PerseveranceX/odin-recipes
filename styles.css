@@ -1,0 +1,32 @@
+body,html {
+  min-height: 100vh;
+  background: #ffeb3b;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 400px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.recipes {
+  text-align: center;
+}
+
+.recipe {
+  /*border: red 5px solid;*/
+}
+
+a {
+  display: inline-block;
+  width: fit-content;
+  border: #ff9800 5px solid;
+  margin-bottom: 10px;
+}
